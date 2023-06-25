@@ -9,3 +9,8 @@
 p1{
     color: red;
 }
+
+iframe{
+    width: max-content;
+    max-height: max-content;
+}
