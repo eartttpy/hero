@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 240, 187);
+    text-align:center;
+    text-justify:center;
+}
+
+p1{
+    color: red;
+}
